@@ -1,4 +1,5 @@
-//JAI SHREE MAHAKAL
+/* जय  महाकाल */
+
 #include "bits/stdc++.h"
 using namespace std ;  
 #define endl '\n'
